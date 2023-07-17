@@ -1,2 +1,2 @@
-# isbn
-Remove hyphens from ISBN
+# ISBN
+Remove hyphens from ISBN, as simple as that
